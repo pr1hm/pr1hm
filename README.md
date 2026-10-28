@@ -13,8 +13,8 @@
 **Freelance Web Developer · Builder of things I want to exist**
 
 [![Email](https://img.shields.io/badge/Email-000?style=flat-square&logo=gmail&logoColor=white)](mailto:s-pratham@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathams711)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/pr11hm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pr1hm)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/prthm.xyz)
 
 </div>
 
@@ -24,7 +24,7 @@
 
 IT diploma student at **N. G. Patel Polytechnic, Gujarat** — building real things alongside coursework. I take client briefs and turn them into shipped products. My work sits at the intersection of web dev, AI pipelines, and automation.
 
-- &nbsp; Year 2 · Diploma in Information Technology
+- &nbsp; Year 3 · Diploma in Information Technology
 - &nbsp; Currently building — **Business automation platform for merchants (WhatsApp CRM + product management)**
 - &nbsp; Freelance — **Available** ·
 - &nbsp; Focus — ship fast, keep it maintainable, charge what it's worth
